@@ -10,8 +10,8 @@
     "title": "Dice",
     "icon": "/icon.svg",
     "popover": "/",
-    "height": 700,
-    "width": 375
+    "height": 900,
+    "width": 575
   },
   "background_url": "/background.html"
 }
